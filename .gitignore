@@ -1,0 +1,14 @@
+# Build folders
+Debug/
+Release/
+bin/
+obj/
+
+# IDE Specific
+.settings/
+.metadata/
+*.launch
+
+# User-specific
+*.bak
+*.p_bak
