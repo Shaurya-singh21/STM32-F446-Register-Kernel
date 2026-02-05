@@ -56,4 +56,4 @@ A key differentiator in this project was the deep dive into the **STM32F446xx Da
 | **Abstraction** | Heavy ST HAL / LL Drivers | **Pure Register-to-Silicon Manipulation** |
 
 **Link to HAL-Level CLI**
-https://github.com/Shaurya-singh21/STM32-F446-Register-Kernel
+https://github.com/Shaurya-singh21/stm32-uart-cli-controller
